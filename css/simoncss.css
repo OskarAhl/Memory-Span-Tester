@@ -1,0 +1,70 @@
+h1.h {
+	text-align: center;
+	font-weight: 300;
+}
+
+.container {
+	margin: 0px auto;
+	white-space: nowrap;
+	text-align: center;
+}
+
+.colorbox {
+	box-shadow: 0px 0px 3px #222;
+	border-radius: 5px;
+	height: 120px;
+	width: 120px;
+	opacity: 0.5;
+	margin-right: 10px;
+	margin-top: 12px;
+}
+
+.highlight:active {
+	opacity: 1.0;
+}
+
+.controlPanel {
+	text-align: center;
+	margin: 30px;	
+}
+
+#startbtn {
+	outline: none;
+}
+
+.first2 {
+	display: inline-block;
+	vertical-align:top;
+}
+
+.last2 {
+	display: inline-block;
+	vertical-align:top;
+}
+
+#bar {
+	width: 30%;
+	margin: 30px auto;
+	min-width: 300px;
+}
+
+.opac {
+	opacity: 1.0;
+}
+
+#red {
+	background: #e80000;
+}
+
+#blue {
+	background: #66e2ff;
+}
+
+#green {
+	background: #00e54c;
+}
+
+#yellow {
+	background: #f72bff;
+}
+
