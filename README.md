@@ -9,3 +9,6 @@ Html, CSS, Bootstrap, jQuery, Howler.JS
 - Clicked Array with clicked colors: e.g. click blue and then push “blue” into clicked array
 - Compare Sequence and Clicked array to see if user is correct!
 - Biggest challenge: setTimeout function within forEach iteration (solved with IFFEs)
+
+## Try it out here: 
+[https://oskarahl.github.io/Memory-Span-Tester/](https://oskarahl.github.io/Memory-Span-Tester/)
