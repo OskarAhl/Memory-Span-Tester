@@ -2,7 +2,7 @@
 User can test if users memory is good enough to remember a sequence of ten events. Inspired by the classic Simon-game and created as a final project for the FreeCodeCamp Front End Certificate. 
 
 ## Stack: 
-Html, CSS, Bootstrap, jQuery, Howler.JS
+Front end: Html, CSS, Bootstrap, jQuery, Howler.JS
 
 ## How is it made?
 - Sequence Array with random colors – will be incremented with one new random color when the turn is complete.
